@@ -1,0 +1,2 @@
+# Kelime-listeleme
+deneme
