@@ -1,0 +1,627 @@
+**********************************
+"twelve",#1
+"twenty",#2
+"slim",#3
+"thin",#4
+"handsome",#5
+"intelligent",#6
+"moustache",#7
+"beard",#8
+"blonde",#9
+"straight",#10
+
+"oniki",#1
+"yirmi",#2
+"ince",#3
+"zayıf",#4
+"yakışıklı",#5
+"zeki",#6
+"bıyık",#7
+"sakal",#8
+"sarışın",#9
+"düzsaç",#10
+
+
+**********************************
+
+"bald",#11
+"nephew",#12
+"niece",#13
+"engaged",#14
+"divorced",#15
+"widowed",#16
+"punctuation",#17
+"comma",#18
+"realitive",#19 
+"accountant",#20 
+
+"kel",#11
+"erkek yeğen",#12
+"kız yeğen",#13
+"nişanlı",#14
+"boşanmış",#15
+"dul",#16
+"noktalama",#17
+"virgül",#18
+"akraba",#19 1
+"muhasebeci",#20 2
+
+
+
+
+**********************************
+
+"homemaker",#21 3
+"veterinarian",#22 
+"waitress",#23 5
+"waiter",#24 6
+"scarf",#25 7
+"mittens",#26 8
+"vest",#27 9
+"tie",#28 10
+"stand",#29 11
+"at the moment",#30 12
+
+"ev kadını",#21 3
+"veteriner",#22 4
+"bayan garson",#23 5
+"erkek garson",#24 6
+"atkı",#25 7
+"eldiven",#26 8
+"yelek",#27 9
+"kravat",#28 10
+"durmak",#29 11
+"şu anda",#30 12
+
+
+
+**********************************
+"mouth",#31
+"lips",#32
+"tooth",#33
+"teeth",#34
+"tongue",#35
+"nose",#36
+"eyebrown",#37
+"cheek",#38
+"chin",#39
+"hair",#40
+
+"ağız",#31
+"dudak",#32
+"diş",#33
+"dişler",#34
+"dil",#35
+"burun",#36
+"kaş",#37
+"yanak",#38
+"çene",#39
+"saç",#40
+
+
+
+**********************************
+"ear",#41
+"forehead",#42
+"neck",#43
+"shoulder",#44
+"back",#45
+"chest",#46
+"stomach",#47
+"arm",#48
+"elbow",#49
+"wrist",#50
+
+"kulak",#41
+"alın",#42
+"boyun",#43
+"omuz",#44
+"sırt",#45
+"göğüs",#46
+"karın",#47
+"kol",#48
+"dirsek",#49
+"el bileği",#50
+
+
+***************************************
+"hand",#51
+"thumb",#52
+"fingers",#53
+"thigh",#54
+"leg",#55
+"knee",#56
+"ankle",#57
+"foot",#58
+"feet",#59
+"toe",#60
+
+"el",#51
+"el başparmağı",#52
+"parmaklar",#53
+"kalça",#54
+"bacak",#55
+"diz",#56
+"ayak bileği",#57
+"ayak",#58
+"ayaklar",#59
+"ayak başparmağı",#60
+
+
+
+**********************************
+"earring",#61
+"necklace",#62
+"chain",#63
+"shave",#67
+"take a bath",#68
+"take a shower",#69
+"wash your face",#70
+"bracelet",#71
+"hairdresser",#72
+"jewelry",#73
+
+"küpe",#61
+"kolye",#62
+"zincir",#63
+"tıraş olmak",#67
+"banyo yapmak",#68
+"duş almak",#69
+"yüzünü yıka",#70
+"bilezik",#71
+"kuaför",#72
+"takı",#73
+
+
+
+***************************************
+"feel",#74
+"headache",#75
+"tootache",#76
+"earache",#77
+"backache",#78
+"stomach ache",#79
+"fever",#80
+
+"hissetmek",#74
+"baş ağrısı",#75
+"diş ağrısı",#76
+"kulak ağrısı",#77
+"sırt ağrısı",#78
+"karın ağrısı",#79
+"ateşlenmek",#80
+
+
+**********************************
+
+"this",#81
+"that",#82
+"these",#83
+"those",#84
+"eraser",#85
+"hypen",#86
+"rude",#87
+"outgoing",#88
+"curly",#89
+"high temperature",#90
+
+
+"bu",#81
+"şu",#82
+"bunlar",#83
+"şunlar",#84
+"silgi",#85
+"tire",#86
+"kaba",#87
+"dışa dönük",#88
+"kıvırcık",#89
+"yüksek ateş",#90
+
+***************************************
+"sore throat",#91
+"sore eye",#92
+"quiet",#93
+"sore hand",#94
+"flu",#95
+"medicine",#96
+"living room",#97
+"dining room",#98
+"kitchen",#99
+"basement",#100
+
+"boğaz ağrısı",#91
+"göz ağrısı",#92
+"sessiz",#93
+"el ağrısı",#94
+"grip",#95
+"ilaç",#96
+"salon",#97
+"yemek odası",#98
+"mutfak",#99
+"bodrum",#100
+
+
+******************************************
+"yard",#101
+"apartment",#102
+"flats",#103
+"townhouse",#104
+"palace",#105
+"cabin",#106
+"tent",#107
+"some",#108
+"any",#109
+"roof",#110
+
+"avlu",#101
+"apartman",#102
+"daire",#103
+"konak",#104
+"saray",#105
+"kulube",#106
+"çadır",#107
+"+ - ? biraz",#108
+"- ? hiç",#109
+"çatı",#110
+**********************************************
+
+"chimney",#111
+"attic",#112
+"porch",#113
+"balcony",#114
+"patio",#115
+"there",#116
+"furniture",#117
+"on",#118
+"under",#119
+"in front of",#120
+
+"baca",#111
+"çatı katı",#112
+"veranda",#113
+"balkon",#114
+"bahçe avlusu",#115
+"orada",#116
+"mobilya",#117
+"üstünde",#118
+"altında",#119
+"önünde",#120
+***************************************************    
+"chest of drawers",#121
+"behind",#122
+"chair",#123
+"beside",#124
+"next to",#125
+"in",#126
+"between",#127
+"carpet",#128
+"dresser",#129
+"above",#130
+
+"şifonyer",#121
+"arkasında",#122
+"sandalye",#123
+"yanında",#124
+"bitişiğinde",#125
+"içinde",#126
+"arasında",#127
+"halı",#128
+"şifonyer",#129
+"üstünde",#130
+
+*************************************************
+*************************************************
+*************************************************
+"stove",#131
+"fridge",#132
+"sofa",#133
+"cabinet",#134
+"armchair",#135
+"refrigerator",#136
+"fried potatoes",#137
+"sink",#138
+"breakfast",#139
+"bathtub",#140
+
+"ocak",#131
+"buzdolabı",#132
+"kanepe",#133
+"dolap",#134
+"koltuk",#135
+"buzdolabı",#136
+"kızarmış patates",#137
+"lavabo",#138
+"kahvaltı",#139
+"küvet",#140
+///////////////////////////////////////////////////
+****************************************************
+"bacon",#141
+"sousage",#142
+"omelette",#143
+"cereal",#144
+"jam",#145
+"toast",#146
+"juice",#147
+"cream",#148
+"lunch",#149
+"ham",#150
+
+"domuz pastırması",#141
+"sosis",#142
+"omlet",#143
+"mısır gevreği",#144
+"reçel",#145
+"tost",#146
+"meyve suyu",#147
+"krema",#148
+"öğlen yemeği",#149
+"jambon",#150
+/////////////////////////////////////////////////
+****************************************************
+
+"mustard",#151
+"mayonnaise",#152
+"soup",#153
+"tomatoes",#154
+"lettuce",#155
+"cucumber",#156
+"onion",#157
+"meat",#158
+"lamb",#159
+"peans",#160
+
+"hardal",#151
+"mayonez",#152
+"çorba",#153
+"domates",#154
+"marul",#155
+"salatalık",#156
+"soğan",#157
+"et",#158
+"kuzu",#159
+"biber",#160
+////////////////////////////////////////////////////
+*************************************
+
+"potatoes",#161
+"broccoli",#162
+"dessert",#163
+"pie",#164
+"strawberry",#165
+"grape",#166
+"peach",#167
+"apricot",#168
+"cherry",#169
+"watermelon",#170
+
+"patates",#161
+"brokoli",#162
+"tatlı",#163
+"turta",#164
+"çilek",#165
+"üzüm",#166
+"şeftali",#167
+"kayısı",#168
+"kiraz",#169
+"karpuz",#170
+////////////////////////////////////////////////////
+****************************************
+
+"melon",#171
+"carrot",#172
+"peas",#173
+"squash",#174
+"legumes",#175
+"dried beans",#176
+"lentils",#177
+
+"buns",#179
+"biscuits",#180
+
+
+"kavun",#171
+"havuç",#172
+"bezelye",#173
+"kabak",#174
+"baklagiller",#175
+"kuru fasulye",#176
+"mercimek",#177
+
+"çörek",#179
+"bisküvi",#180
+///////////////////////////////////////////////////////
+***********************************************
+
+"crackers",#181
+"butter",#182
+"margarine",#183
+"olive oil",#184
+"sunflower oil",#185
+"cookies",#186
+"countable",#187
+"liquids",#188
+"uncountable",#189
+"powders",#190
+
+"kraker",#181
+"tereyağ",#182
+"margarin",#183
+"zeytin yağı",#184
+"ayçicek yağı",#185
+"kurabiye",#186
+"sayılabilir",#187
+"sıvı",#188
+"sayılamaz",#189
+"toz",#190
+/////////////////////////////////////////////
+***********************************************
+/////////////////////////////////////////////
+"flour",#191
+"delicious",#192
+"individual",#193
+"lift",#194
+"faint",#195
+"opinion",#196
+"predict",#197
+"before",#198
+"vacation",#199
+"casual",#200
+
+"un",#191
+"lezzetli",#192
+"bireysel",#193
+"kaldırmak",#194
+"bayılmak",#195
+"fikir",#196
+"tahmin etmek",#197
+"önce",#198
+"tatil",#199
+"gündelik",#200
+/////////////////////////////////////////////
+*********************************************
+///////////////////////////////////////////
+"tonight" , # 201
+"tomorrow" , # 202
+"invitation" , # 203
+"wish" , # 204
+"wed" , # 205
+"excuse" , # 206
+"bussy" , # 207
+"glad" , # 208
+"ask" , # 209
+"enjoy" , # 210
+
+"bu gece" , # 201
+"yarın" , # 202
+"davet" , # 203
+"dilek" , # 204
+"evlenmek" , # 205
+"bahane" , # 206
+"meşgul" , # 207
+"memnun" , # 208
+"sormak" , # 209
+"hoşlanmak" , # 210
+///////////////////////////////////////////
+*********************************************
+///////////////////////////////////////////
+"question" , # 211
+"bumped" , # 212
+"promise" , # 213
+"grass" , # 214
+"baggage" , # 215
+"souvenir" , # 216
+"arrive" , # 217
+"catch" , # 218
+"luggage" , # 219
+"geographical" , # 220
+
+"soru" , # 211
+"çarpmak" , # 212
+"söz vermek" , # 213
+"çimen" , # 214
+"bagaj" , # 215
+"hatıra" , # 216
+"varmak" , # 217
+"tutmak" , # 218
+"valiz" , # 219
+"coğrafi" , # 220
+///////////////////////////////////
+*********************************************
+////////////////////////////////////
+"features" , # 221
+"cliff" , # 222
+"land" , # 223
+"beach" , # 224
+"desert" , # 225
+"prairie" , # 226
+"cave" , # 227
+"countryside" , # 228
+"mountain" , # 229
+"valley" , # 230
+
+"özellikler" , # 221
+"uçurum" , # 222
+"kara" , # 223
+"sahil" , # 224
+"çöl" , # 225
+"çayır" , # 226
+"mağara" , # 227
+"kırsal bölge" , # 228
+"dağ" , # 229
+"vadi" , # 230
+///////////////////////////////////////////
+*********************************************
+////////////////////////////////////////////
+
+"landmarks" , # 231
+"structure" , # 232
+"monument" , # 233
+"antique" , # 234
+"theatre" , # 235
+"transportation" , # 236
+"wind" , # 237
+"aeroplane" , # 238
+"plane" , # 239
+"ferry" , # 240
+
+"görülecek yerler" , # 231
+"yapı" , # 232
+"anıt" , # 233
+"antik" , # 234
+"tiyatro" , # 235
+"toplu taşıma" , # 236
+"rüzgar" , # 237
+"uçak" , # 238
+"uçak" , # 239
+"feribot" , # 240
+
+////////////////////////////////////////////
+*********************************************
+//////////////////////////////////////
+"tram" , # 241
+"direction" , # 242
+"find" , # 243
+"pharmacy" , # 244
+"bakery" , # 245
+"at" , # 246
+"across" , # 247
+"north" , # 248
+"east" , # 249
+"west" , # 250
+
+"tramvay" , # 241
+"yön" , # 242
+"bulmak" , # 243
+"eczane" , # 244
+"fırın" , # 245
+"de" , # 246
+"karşısında" , # 247
+"kuzey" , # 248
+"doğu" , # 249
+"batı" , # 250
+//////////////////////////////////
+*********************************************
+///////////////////////////////////
+"south" , # 251
+"opposite" , # 252
+"around" , # 253
+"everything" , # 254
+"nothing" , # 255
+"everywhere" , # 256
+"nobody" , # 257
+
+"nowhere" , # 259
+"everyone" , # 260
+
+"güney" , # 251
+"karşısında" , # 252
+"çevresinde" , # 253
+"her şey" , # 254
+"hiç bir şey" , # 255
+"her yer" , # 256
+"hiç kimse" , # 257
+
+"hiç bir yer" , # 259
+"herkes" , # 260
+//////////////////////////////////////
+*********************************************
